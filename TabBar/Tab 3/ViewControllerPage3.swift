@@ -11,6 +11,7 @@ import XLPagerTabStrip
 
 class ViewControllerPage3: UIViewController {
     
+    //Test commit
     override func viewDidLoad() {
         super.viewDidLoad()
         
